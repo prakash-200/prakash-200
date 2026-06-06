@@ -45,11 +45,11 @@ Your README will now be visible on the main page of your repository.
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" padding: "70px" /> <br>
   
 ### 
-**Full Stack Developer | Web Application Developer**
+**Full Stack Developer | Tech Artisan**
 
 - 🚀 Passionate about building scalable and modern web applications
-- 💻 Skilled in **C, C++, C#, Python, Java, PHP, JavaScript, TypeScript**
-- ⚡ Proficient in **React, Vite, Angular, ASP.NET Core, Razor**
+- 💻 Skilled in **C#, ASP.NET Core, MVC, React, Angular, GCP**
+- ⚡ Proficient in **ASP.NET Core, Angular, Razor, GCP**
 - 🗄️ Database expertise in **MSSQL & PostgreSQL**
 - 🌱 Currently exploring **modern web frameworks and cloud technologies**
 - 👯 Open to collaborating on **Web Development, Full Stack, and Open Source Projects**
@@ -95,7 +95,7 @@ const Prakashraj = {
       •	Languages:  
                  [ C, C++, C#, Python, Java, PHP, JavaScript, TypeScript ]
       •	Frontend Frameworks:  
-                 [ React, Vite, Angular, HTML5, CSS3, Razor ]
+                 [ React, Vite, Angular, HTML5, CSS3, Razor, Bootstrap, Tailwind ]
       •	Backend Frameworks:  
                  [ ASP.NET Core, Node.js, PHP ]
       •	Databases:  
@@ -104,6 +104,8 @@ const Prakashraj = {
                  [ Visual Studio, VS Code, Git, GitHub, Docker, Postman, SSMS ]
       •	Web Development:  
                  [ REST API, JSON, CRUD Applications, Responsive Design, Web Services, API Integration ]
+      •	Word Press:  
+                 [ Oxygen, Elementor, Divi ]
       •	Other:  
                  [ Object-oriented programming (OOP), Data Structures (DSA), SDLC, Agile, Version Control (GIT), CI/CD, Debugging, Unit Testing, YAML ]
   challenge: "Building scalable web applications with modern tech stacks"
@@ -192,10 +194,3 @@ const Prakashraj = {
 <img src ="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
   
 </p>
-
-## Documentation
-
-- [Project Description](./DESCRIPTION.md)
-- [Code of Conduct](./CODE_OF_CONDUCT.md)
-- [Contributing Guidelines](./CONTRIBUTING.md)
-- [Security Policy](./SECURITY.md)
