@@ -244,13 +244,13 @@ const Prakashraj = {
 
 <br>
 <br>
-<br>
+<br>-->
 
-<p align = "center"> -->
+<p align = "center"> 
 
 <img src="assests/borderseperator.gif">
 
-<h1>✍️ Random Dev Quote </h1>
+<h1>✍️ Powered by Coffee, Amrutanjan & Stack Overflow </h1>
 <img src ="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
   
 </p>
