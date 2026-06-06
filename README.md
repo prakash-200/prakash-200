@@ -191,9 +191,6 @@ const Prakashraj = {
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </a>
-<a href="https://laravel.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
-</a>
 <a href="https://redux.js.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </a>
@@ -228,7 +225,7 @@ const Prakashraj = {
 <img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
 </p>
 
-# <b><p align="left">My GitHub Analytics ⚙️ Stats:</p></b>
+<!--  # <b><p align="left">My GitHub Analytics ⚙️ Stats:</p></b>
 
 [![Profile Visits](https://komarev.com/ghpvc/?username=prakash-200&color=0000FF)](https://github.com/prakash-200)
 
@@ -249,7 +246,7 @@ const Prakashraj = {
 <br>
 <br>
 
-<p align = "center">
+<p align = "center"> -->
 
 <img src="assests/borderseperator.gif">
 
