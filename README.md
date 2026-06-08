@@ -63,7 +63,7 @@ Your README will now be visible on the main page of your repository.
 
 <img src="assests/borderseperator.gif">
 
-  <h1 align="center">Connect With Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
+  <h1 align="center">Let's have a convo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/prakashraj200/" target="_blank">
     <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
